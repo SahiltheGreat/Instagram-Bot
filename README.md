@@ -1,7 +1,7 @@
 # Instagram-Bot
 A bot that does automatic login and image-liking
 
-##Requirements
+## Requirements
 
 * Python Selenium package(pip3 install selenium)
   
@@ -9,7 +9,7 @@ A bot that does automatic login and image-liking
 
 * chromedriver (selenium webdriver) as per your current Google Chrome version, if using chrome(note that you would have to modify the source code a bit. I guess you are smart enough to figure out.
    
-##USING THE SCRIPT:
+## USING THE SCRIPT:
 
 - python3 Instagram.py
 
