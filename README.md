@@ -7,7 +7,7 @@ A bot that does automatic login and image-liking
   
 * geckodriver (selenium webdriver) as per your current Firefox version, if using firefox
 
-* chromedriver (selenium webdriver) as per your current Google Chrome version, if using chrome(note that you would have to modify the source code a bit. I guess you are smart enough to figure out.
+* chromedriver (selenium webdriver) as per your current Google Chrome version, if using chrome(note that you would have to modify the source code a bit. I guess you are smart enough to figure that out.)
    
 ## USING THE SCRIPT:
 
