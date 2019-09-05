@@ -1,3 +1,4 @@
+#Instagram-bot by SAHIL MANOJ BHATT
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
 import getpass
@@ -16,6 +17,7 @@ class InstagramBot:
         self.username = input()
         print("Enter your Instagram password")
         self.password = getpass.getpass()
+        print("Enter the username of the person whose photos you wish to like :")
         self.follower = input()
         #For Firefox
         self.driver = webdriver.Firefox()
